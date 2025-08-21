@@ -698,8 +698,7 @@ path.combo {
 </g>
 <g transform="translate(880, 293)" class="key keypos-41">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<text x="0" y="0" class="key tap">`</text>
-<text x="0" y="-34" class="key shifted">~</text>
+<use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="-11" y="-11" height="22" width="22.0" class="key tap glyph mdi:apple-keyboard-option"/>
 </g>
 <g class="combo combopos-0">
 <rect rx="4" ry="4" x="105" y="95" width="30" height="30" class="combo"/>
