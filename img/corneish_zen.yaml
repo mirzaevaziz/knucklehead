@@ -69,7 +69,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&kb GRAVE'
+  - {t: '$$mdi:transfer$$', type: trans}
   - (
   - )
   - {t: '[', s: '{'}
@@ -77,8 +77,8 @@ layers:
   - {t: '-', s: _}
   - {t: '=', s: +}
   - {t: \, s: '|'}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - ^
+  - $
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
