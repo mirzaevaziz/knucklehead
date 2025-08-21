@@ -5,6 +5,8 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/outputs.h>
 
+#define GLOBE (ZMK_HID_USAGE(HID_USAGE_CONSUMER, 0x029D))
+
 // Layers
 #define L1 0
 #define L2 1
