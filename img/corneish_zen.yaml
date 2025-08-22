@@ -184,6 +184,9 @@ combos:
 - p: [21, 33]
   k: {h: \, s: '|'}
   l: [L1, L2, Fn]
+- p: [22, 34]
+  k: {t: '`', s: '~'}
+  l: [L1, L2]
 - p: [1, 2, 3, 4]
   k: $$mdi:bluetooth-off$$
   l: [Fn]
